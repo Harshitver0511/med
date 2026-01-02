@@ -4,6 +4,15 @@
 *A Hybrid Online–Offline Medicine Packaging Verification System*
 
 ---
+## 🎥 Demo Videos
+
+▶️ **Video 1:   
+🔗 https://drive.google.com/file/d/1zWhR2dL3wcoej_s-WEEucCuthyITickl/view?usp=drive_link
+
+▶️ **Video 2:  
+🔗 https://drive.google.com/file/d/1V4Mzns11Eh-5GZeDuyHP7bAA7GSLPD2m/view?usp=drive_link
+
+---
 
 ## 📌 Overview
 
@@ -115,15 +124,7 @@ MEDGENESIS introduces a **secure, cryptographic, and hybrid online–offline aut
 
 ---
 
-## 🎥 Demo Videos
 
-▶️ **Video 1: System Overview & Architecture**  
-🔗 https://your-video-link-1
-
-▶️ **Video 2: Live App Demo & Verification Flow**  
-🔗 https://your-video-link-2
-
----
 
 ## 🛠️ Tech Stack
 
